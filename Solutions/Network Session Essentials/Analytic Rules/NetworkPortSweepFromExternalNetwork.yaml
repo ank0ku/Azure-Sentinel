@@ -89,5 +89,5 @@ customDetails:
 alertDetailsOverride:
   alertDisplayNameFormat: Network Port Sweep detected on {{DstPortNumber}}
   alertDescriptionFormat: 'Network Port Sweep was detection by multiple IPs'
-version: 1.0.4
+version: 1.0.5
 kind: Scheduled
